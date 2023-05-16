@@ -296,6 +296,7 @@ main {
   height: 75px;
   border-radius: 50%;
   box-shadow: var(--shadow-3);
+  object-fit:cover;
 }
 .person h4 {
   font-weight: 500;

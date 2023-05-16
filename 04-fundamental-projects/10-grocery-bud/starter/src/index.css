@@ -263,7 +263,7 @@ ul {
   border-radius: var(--borderRadius);
   padding: 2rem;
   box-shadow: var(--shadow-1);
-  transition: var(--transition);
+  /* transition: var(--transition); */
 }
 .section-center:hover {
   box-shadow: var(--shadow-3);
